@@ -1,0 +1,12 @@
+[Map]
+image=Canada.bmp
+
+[Continents]
+abc=2
+xyz=3
+
+[Territories]
+c1,100,100,abc,c2
+c2,200,200,abc,c1
+c3,300,300,xyz,c4
+c4,400,400,xyz,c3
